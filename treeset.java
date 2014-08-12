@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-public class treelist
+public class treeset
 {
 	public static void main (String[] args) throws java.lang.Exception{
  
